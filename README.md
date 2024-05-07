@@ -1,2 +1,2 @@
-# csso_antiflash
+# CSSO Antiflash
 Very simple antiflash for Source Offensive
