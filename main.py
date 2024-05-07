@@ -12,3 +12,5 @@ localplayer = csso.read_uint(client + offsets['dwLocalPlayer'])
 flashstrength = localplayer + offsets['m_flFlashMaxAlpha']
 
 csso.write_float(flashstrength, float(0) if csso.read_float(flashstrength) == float(255) else float(255))
+
+csso.close_process()
