@@ -10,3 +10,6 @@ If `m_flFlashMaxAlpha` is 255, script change value to 0 and back
 Installation:
 1. `pip install pymem`
 2. `python main.py`
+
+# WARNING!
+> Any cheats are bad. The script was created as a learning interest
