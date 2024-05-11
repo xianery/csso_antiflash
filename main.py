@@ -1,4 +1,4 @@
-import pymem.memory
+import pymem
 
 offsets = {
     "dwLocalPlayer": int(0x6D6870),
